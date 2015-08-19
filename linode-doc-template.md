@@ -36,10 +36,6 @@ external_resources:
 
 Formatting examples
 
-# Primary Header
-
-The title of your guide should be preceeded with a single hash.
-
 ## Section Header
 
 Each major section of your guide should be placed under a section header
