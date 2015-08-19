@@ -5,8 +5,8 @@ author:
 description: 'One-sentence article descriptions'
 keywords: 'list,of,keywords,and key phrases'
 license: '[CC BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/us/)'
-published: 'Weekday, Month 00th, 2015'
-modified: Weekday, Month 00th, 2015
+published: 'Weekday, Month 0th, 2015'
+modified: Weekday, Month 0th, 2015
 modified_by:
     name: Linode
 title: 'Guide Title'
